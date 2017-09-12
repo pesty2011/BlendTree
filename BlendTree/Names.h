@@ -1,0 +1,5 @@
+REGISTER_ENUM(MSG_PlayerSighted)
+REGISTER_ENUM(MSG_HeardSound)
+REGISTER_ENUM(MSG_SetTarget)
+REGISTER_ENUM(MSG_Something)
+
